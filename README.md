@@ -17,6 +17,6 @@
 - ⚡ Fun fact **I am Funny**
 
 
-[![Swapno's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Swapno963&&theme=xcode)](https://github.com/Swapno963)
+# GitHub Activity
 
-
+[![Swapno963's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Swapno963&theme=github)](https://github.com/Swapno963)
