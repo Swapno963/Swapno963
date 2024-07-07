@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 📫 How to reach me **swapno963@gmail.com**
+- 📫 How to reach me, Phone No:**01709112230**
+- 📫 How to reach me, Email: **swapno963@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
