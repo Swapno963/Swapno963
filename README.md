@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Django React js **
+- 🔭 I’m currently working on **Django React js**
 
 - 🌱 I’m currently learning **Next js**
 
-- 📫 How to reach me, Phone No:**01709112230**
+- 📫 How to reach me, Phone No:**(+088) 01709112230**
 - 📫 How to reach me, Email: **swapno963@gmail.com**
 - [![](https://visitcount.itsvg.in/api?id=Swapno963&icon=6&color=12)](https://visitcount.itsvg.in)
 
