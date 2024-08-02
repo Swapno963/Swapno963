@@ -12,7 +12,7 @@
 - [![](https://visitcount.itsvg.in/api?id=Swapno963&icon=6&color=12)](https://visitcount.itsvg.in)
 
 - ⚡ Fun fact **I am Funny**
-
+<br/>
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/swapno-mondol/" target="_blank">
