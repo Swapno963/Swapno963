@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapno Mondol</h1>
-<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
+<h3 align="center">A passionate FullStack Developer from Dhaka, Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Django React js**
+- 🔭 I’m currently working on **Django Next js React js**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Clery, Aws, Websocket**
 
 - 📫 How to reach me, Phone No:**(+880) 01709112230**
 - 📫 How to reach me, Email: **swapno963@gmail.com**
