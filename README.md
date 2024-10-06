@@ -31,12 +31,12 @@
 <p align="center">
   <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&utcOffset=8&layout=compact"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&utcOffset=8&layout=compact&theme=gruvbox"
             alt="Productive Time Card"
           />
   <img
           style="max-width: 100%; height: auto;"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swapno963&theme=blue_green"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swapno963&theme=gruvbox"
           alt="Profile details"
         />
   <img src="https://github-contributor-stats.vercel.app/api?username=Swapno963&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Contributor Stats" style="margin-right: 10px;height: 250px;width:400px" />
