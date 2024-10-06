@@ -31,7 +31,7 @@
 <p align="center">
   <img
             style="max-width: 100%; height: auto; margin: 10px 0;"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&theme=blue_green&utcOffset=8&layout=compact"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&utcOffset=8&layout=compact"
             alt="Productive Time Card"
           />
   <img
