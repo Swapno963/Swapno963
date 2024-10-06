@@ -29,11 +29,12 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img
-            style="max-width: 100%; height: auto; margin: 10px 0;"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&utcOffset=8&layout=compact&theme=gruvbox"
-            alt="Productive Time Card"
-          />
+<img
+    style="max-width: 100%; height: auto; margin: 10px 0;"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Swapno963&utcOffset=6&layout=compact&theme=gruvbox"
+    alt="Productive Time Card"
+/>
+
   <img
           style="max-width: 100%; height: auto;"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swapno963&theme=gruvbox"
