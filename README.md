@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swapno Mondol</h1>
-<p align="center">A backend-focused engineer from Dhaka, Bangladesh, with hands-on experience building and operating real-world systems. My strength lies in backend architecture, data modeling, and service design, with growing depth in DevOps practices such as containerization, infrastructure automation, and production troubleshooting. I’m comfortable working across the stack when needed, but I specialize in understanding how systems behave under load, across environments, and over time. I value clear documentation, deliberate design choices, and engineering practices that prioritize reliability, maintainability, and long-term scalability.</p>
+<p align="center">Backend-focused engineer with hands-on experience designing and operating real-world systems. Strong in backend architecture, data modeling, and API design, with growing depth in DevOps practices including Docker, CI/CD, infrastructure automation, and production troubleshooting. I understand how systems behave under load, across environments, and over time. Comfortable working with frontend technologies when needed, but primarily focused on building reliable, maintainable, and scalable backend systems.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Django Next js React js**
+- 🔭 I’m currently working on **FastAPI, Django**
 
-- 🌱 I’m currently learning **Clery, Aws, Websocket**
+- 🌱 I’m currently learning **kubernetes, Go**
 
 - 📫 How to reach me, Phone No:**(+880) 01709112230**
 - 📫 How to reach me, Email: **swapno963@gmail.com**
